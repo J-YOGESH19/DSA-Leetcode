@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 class Solution {
-    public String reverseString(char[] s) {
+    public void reverseString(char[] s) {
       
         int left = 0 ;
         int right = s.length - 1;
@@ -18,7 +18,7 @@ class Solution {
 
         }
 
-       return Arrays.toString(s);
+      
         
     }
 }
