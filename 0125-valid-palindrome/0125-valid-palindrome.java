@@ -1,6 +1,9 @@
 class Solution {
     public boolean isPalindrome(String s) {
 
+        //we have used two pointer approach 
+        
+
         int left = 0;
         int right = s.length() - 1;
 
