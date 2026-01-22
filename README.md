@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0392-is-subsequence) |
 ## Math
