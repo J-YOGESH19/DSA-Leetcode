@@ -18,6 +18,9 @@ class Solution {
         }
 
 
+        // and the time complexity for it is o(n)
+
+
 
         
     }
