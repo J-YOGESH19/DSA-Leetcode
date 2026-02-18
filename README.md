@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2396-strictly-palindromic-number](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [2396-strictly-palindromic-number](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
