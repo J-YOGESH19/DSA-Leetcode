@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
