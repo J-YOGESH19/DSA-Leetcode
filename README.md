@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
