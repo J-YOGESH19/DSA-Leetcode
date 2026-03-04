@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0946-validate-stack-sequences](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
