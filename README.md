@@ -66,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1392-longest-happy-prefix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0946-validate-stack-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
