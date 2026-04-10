@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Math
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/J-YOGESH19/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
